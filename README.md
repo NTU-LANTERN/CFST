@@ -2,10 +2,18 @@
 
 # Compositional Few-Shot Testing (CFST)
 
+![Language](https://img.shields.io/badge/language-Python-brightgreen)
+[[<img src="" />Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73708.png?t=1701659113.7268684) ]
+[[OpenReview](https://openreview.net/forum?id=38bZuqQOhC)]
+![License](https://img.shields.io/badge/license-CCBY4.0-yellow)
+
 </div>
 
-**This project provides two benchmarks and one evaluation protocol 
-focusing on evaluating the compositionality of a continual learner.**
+**The Official Repository for dataset CGQA, COBJ, and 
+NeurIPS2023 Paper "Does Continual Learning Meet Compositionality? New Benchmarks and An Evaluation Framework" ([link](https://neurips.cc/virtual/2023/poster/73708)).** 
+
+This project provides two benchmarks and one evaluation protocol 
+focusing on evaluating the compositionality of a continual learner.
 
 Dataset Description: [link](https://liaoweiduo.notion.site/db205c8f05954a17a5c5246ca77e4074?v=a20095dc6c5c40de855d076ed7714b3a&pvs=25).
 
