@@ -71,7 +71,7 @@ pip install timm
 
 ### CGQA and COBJ
 
-Our benchmarks can be accessed in icloud: [CGQA](https://www.icloud.com/iclouddrive/0986u6Zo6Maa5hgntK1jHvUmA#CGQA), [COBJ](https://www.icloud.com/iclouddrive/0485XJRF0e2nbeuWgOu3nDYMQ#COBJ) (also in OneDrive: [CFST](https://portland-my.sharepoint.com/personal/weiduliao2-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fweiduliao2%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2FSharing%2FCFST&view=0)). 
+Our benchmarks can be accessed in icloud: [CGQA](https://www.icloud.com/iclouddrive/0986u6Zo6Maa5hgntK1jHvUmA#CGQA), [COBJ](https://www.icloud.com/iclouddrive/0485XJRF0e2nbeuWgOu3nDYMQ#COBJ) (also in [OneDrive](https://portland-my.sharepoint.com/personal/weiduliao2-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fweiduliao2%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2FSharing%2FCFST&view=0) and [hugging face](https://huggingface.co/datasets/jiangmingchen/CGQA_and_COBJ)). 
 Extract them into two folder named `CGQA` and `COBJ` under `CFST` folder.
 JSON file includes meta-information (e.g., concept combinations, concept positions, and concept features) and is needed for the dataloader. 
 The folder structure is as follows: 
