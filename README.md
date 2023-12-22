@@ -110,12 +110,6 @@ The folder structure is as follows:
     └─O365_sys_fewshot_crop.json
 ```
 
-### Constructing For Your Own Benchmark
-
-TODO: JIANG
-
-need meta-information about 
-
 ---
 ## Benchmark Usage
 
